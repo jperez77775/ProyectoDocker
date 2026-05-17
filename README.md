@@ -42,7 +42,7 @@ ________________________________________
 ¡Conectado exitosamente a la base de datos MySQL!.
 3.	Validación en el Navegador: Abre una pestaña en tu navegador e ingresa a:
 o	🌐 http://localhost:4000/cv (Para verificar el JSON limpio y nativo).
-o	💻 http://localhost:3000 (Para ver la interfaz de usuario
+o	💻 http://localhost:3000 (Para ver la interfaz de usuario)
 
 
 
