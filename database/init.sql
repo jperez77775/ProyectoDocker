@@ -24,7 +24,7 @@ CREATE TABLE formacion (
     FOREIGN KEY (persona_id) REFERENCES persona(id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
--- 4. Insertar los datos con sus tildes correspondientes
+-- 4. Insertar los datos 
 INSERT INTO persona (nombre, apellido, ciudad, foto) 
 VALUES ('Juan Eduardo', 'Pérez Orellana', 'Santa Cruz', '/perfil.jpg');
 
